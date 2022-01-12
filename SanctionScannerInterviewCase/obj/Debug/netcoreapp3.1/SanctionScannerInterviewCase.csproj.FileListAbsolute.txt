@@ -1,0 +1,15 @@
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.exe
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.deps.json
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.runtimeconfig.json
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.runtimeconfig.dev.json
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.dll
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\SanctionScannerInterviewCase.pdb
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.csprojAssemblyReference.cache
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.AssemblyInfo.cs
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.dll
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.pdb
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.genruntimeconfig.cache
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\baran\source\repos\SanctionScannerInterviewCase\SanctionScannerInterviewCase\obj\Debug\netcoreapp3.1\SanctionScannerInterviewCase.csproj.CopyComplete

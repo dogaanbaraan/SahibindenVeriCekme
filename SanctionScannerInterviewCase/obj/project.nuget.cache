@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNqZMM4koJ7g5wuUUXlVcgywd9PjEwKQBwVeWildISz9W59hRP5GQ84QUjpi7LyYdOVJYvRhHtfBaC01YVYqiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baran\\source\\repos\\SanctionScannerInterviewCase\\SanctionScannerInterviewCase\\SanctionScannerInterviewCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baran\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
